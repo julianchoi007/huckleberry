@@ -10,3 +10,12 @@ body {
 }
 
 /* Add styles here! */
+.max-width-wrapper {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 12px;
+}
+h1 {
+  max-width: 300px;
+}
